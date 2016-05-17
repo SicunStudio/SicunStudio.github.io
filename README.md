@@ -86,7 +86,9 @@ Google Official
 Color [https://www.google.com/design/spec/style/color.html](https://www.google.com/design/spec/style/color.html)
 
 ###统一设计
+
 **以下所有栏目都是建议栏目，请根据设计自行调整**
+
 1. 导航栏
     - logo（社团网）
     - 链接
@@ -106,6 +108,7 @@ Color [https://www.google.com/design/spec/style/color.html](https://www.google.c
     - **后台注意** 所有需登录模块（后台、物资系统、传媒委任等）的登录页面转至此统一登录模块，可通过URL传参或设定session等方式确定登录后跳转页面
 
 ###分页面
+
 1. 首页
     - 导航栏
     - 轮播图
