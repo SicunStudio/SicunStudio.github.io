@@ -1,6 +1,6 @@
 #社团网改版需求
 
-2016-5-16
+2016-5-17
 
 ##目前社团网架构
 1. 首页
@@ -37,11 +37,12 @@
 3. logo使用**新**社联标志+社团网类似字样
 4. 考虑与当前网站的兼容
 5. 给出首页、新闻展示页面的示意图或产品原型
+6. PC端+手机端
 
 ##具体页面及元素要求
 主题色：绿色
 
-**貌似并没有限定过具体RGB颜色，因此按照Google   Material Design给出的Green，Light green调色板**
+**貌似并没有限定过具体RGB颜色，因此按照Google Material Design给出的Green，Light green调色板**
 
 **默认主色调为Green 500:#4caf50**
 
@@ -85,6 +86,7 @@ Google Official
 Color [https://www.google.com/design/spec/style/color.html](https://www.google.com/design/spec/style/color.html)
 
 ###统一设计
+**以下所有栏目都是建议栏目，请根据设计自行调整**
 1. 导航栏
     - logo（社团网）
     - 链接
