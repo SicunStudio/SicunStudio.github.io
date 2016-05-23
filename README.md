@@ -1,6 +1,6 @@
 #社团网改版需求
 
-2016-5-17
+2016-5-23
 
 ##目前社团网架构
 1. 首页
@@ -140,6 +140,7 @@ Color [https://www.google.com/design/spec/style/color.html](https://www.google.c
         - 简略FAQ
 
 2. 新闻、预告、通知页面
+    - 链接页面
     - 正文区域
         - 标题
         - 时间
@@ -162,5 +163,4 @@ Color [https://www.google.com/design/spec/style/color.html](https://www.google.c
 3. Bootstrap themes [http://themes.getbootstrap.com/](http://themes.getbootstrap.com/)
 4. Material Design [https://getmdl.io/templates/index.html](https://getmdl.io/templates/index.html)
 5. Bootstrap优站精选 [http://expo.bootcss.com/](http://expo.bootcss.com/)
-
 
